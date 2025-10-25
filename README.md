@@ -11,8 +11,7 @@
 直接把头文件导入
 
 #### 使用说明
-
-......
+[使用手册.md](http://gitee.com/caofan3611/winold/master/使用手册.md)
 
 #### 参与贡献
 
