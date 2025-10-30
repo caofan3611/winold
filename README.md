@@ -9,7 +9,10 @@
 #### logo
 ![logo](images/logo.jpg)
 #### 安装教程
-直接把头文件导入
+下载相应版本的压缩包,解压之后然后放到你的程序相同目录下,要用的时候就
+```cpp
+#include "winold.h"
+```
 
 #### 使用说明
 [使用手册.md](http://gitee.com/caofan3611/winold/blob/master/使用手册.md)
