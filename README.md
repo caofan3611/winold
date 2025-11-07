@@ -26,5 +26,7 @@
 2.  新建 Feat_xxx 分支
 3.  提交代码
 4.  新建 Pull Request
+#### readme一定要中二
+这方面做的不是很好
 
 
