@@ -74,8 +74,8 @@ public:
   string getMapName(ll n);
 
 private:
-  template <class type> ll root_remove_(type &ts, string s);
-  class winold_map {
+   template <class type> ll root_remove_(type &ts, string s,string n);
+    class winold_map {
   public:
     winold_map() {};
     winold_map(string n, string vs) : name(n), thing(vs) {};
